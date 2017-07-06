@@ -55,3 +55,7 @@
 详细说明如下链接
 
 [单例模式](https://weinh.github.io/design_patterns/docs/singleton_pattern)
+## 工厂方法模式
+详细说明如下链接
+
+[工厂方法模式](https://weinh.github.io/design_patterns/docs/factory_method_pattern)

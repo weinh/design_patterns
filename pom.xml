@@ -11,6 +11,7 @@
     <modules>
         <module>LSP</module>
         <module>singleton_pattern</module>
+        <module>factory_method_pattern</module>
     </modules>
 
     <dependencies>
