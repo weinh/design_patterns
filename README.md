@@ -59,3 +59,7 @@
 详细说明如下链接
 
 [工厂方法模式](https://weinh.github.io/design_patterns/docs/factory_method_pattern)
+## 抽象工厂模式
+详细说明如下链接
+
+[抽象工厂模式](https://weinh.github.io/design_patterns/docs/abstract_factory_pattern)
