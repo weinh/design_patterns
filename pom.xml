@@ -13,6 +13,7 @@
         <module>singleton_pattern</module>
         <module>factory_method_pattern</module>
         <module>abstract_factory_pattern</module>
+        <module>template_method_pattern</module>
     </modules>
 
     <dependencies>

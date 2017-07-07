@@ -63,3 +63,7 @@
 详细说明如下链接
 
 [抽象工厂模式](https://weinh.github.io/design_patterns/docs/abstract_factory_pattern)
+## 模板方法模式
+详细说明如下链接
+
+[模板方法模式](https://weinh.github.io/design_patterns/docs/template_method_pattern)
