@@ -20,6 +20,6 @@ public class TomatoAndEggSoup extends AbstractFood {
     }
 
     protected void addOil() {
-
+        System.out.println("加油");
     }
 }

@@ -28,7 +28,7 @@ public abstract class AbstractFood {
         System.out.println("出锅");
     }
 
-    public final void cooking() {
+    public final void show() {
         for (String step : steps) {
             if ("Tomatoes".equals(step)) {
                 this.addTomatoes();

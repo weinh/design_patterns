@@ -16,7 +16,7 @@ public class TomatoScrambledEggs extends AbstractFood {
     }
 
     protected void addWater() {
-
+        System.out.println("加水");
     }
 
     protected void addOil() {

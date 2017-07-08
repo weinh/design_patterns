@@ -12,11 +12,7 @@ import java.util.List;
 public class Chef1 extends AbstractChef {
     private TomatoAndEggSoup tomatoAndEggSoup = new TomatoAndEggSoup();
 
-    public void setSteps() {
-        List<String> steps = new ArrayList<String>();
-        steps.add("Water");
-        steps.add("Tomatoes");
-        steps.add("Eggs");
+    public void setSteps(List<String> steps) {
         tomatoAndEggSoup.setSteps(steps);
     }
 
