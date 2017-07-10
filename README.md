@@ -75,3 +75,7 @@
 详细说明如下链接
 
 [代理模式](https://weinh.github.io/design_patterns/docs/proxy_pattern)
+## 原型模式
+详细说明如下链接
+
+[原型模式](https://weinh.github.io/design_patterns/docs/prototype_pattern)

@@ -16,6 +16,7 @@
         <module>template_method_pattern</module>
         <module>builder_pattern</module>
         <module>proxy_pattern</module>
+        <module>prototype_pattern</module>
     </modules>
 
     <dependencies>
