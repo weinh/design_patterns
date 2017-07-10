@@ -1,6 +1,5 @@
 package com.learnning.design_patterns.builder_pattern;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**

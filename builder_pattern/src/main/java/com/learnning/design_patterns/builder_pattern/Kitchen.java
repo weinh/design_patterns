@@ -10,7 +10,6 @@ import java.util.List;
  * 开发时间：2017年07月08日
  */
 public class Kitchen {
-    List<String> steps = new ArrayList<String>();
     private Chef1 chef1 = new Chef1();
     private Chef2 chef2 = new Chef2();
 
