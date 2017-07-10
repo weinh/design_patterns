@@ -3,6 +3,7 @@
 为其他对象提供一种代理以控制对这个类的访问
 
 先看下代理模式的通用代码
+
 被代理对象
 ```java
 public interface Subject {
