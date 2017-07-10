@@ -15,6 +15,7 @@
         <module>abstract_factory_pattern</module>
         <module>template_method_pattern</module>
         <module>builder_pattern</module>
+        <module>proxy_pattern</module>
     </modules>
 
     <dependencies>

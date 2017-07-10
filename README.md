@@ -67,7 +67,11 @@
 详细说明如下链接
 
 [模板方法模式](https://weinh.github.io/design_patterns/docs/template_method_pattern)
-## 建造者模式
+## 建造者模式（生成器模式）
 详细说明如下链接
 
-[建造者模式](https://weinh.github.io/design_patterns/docs/builder_pattern)
+[建造者模式（生成器模式）](https://weinh.github.io/design_patterns/docs/builder_pattern)
+## 代理模式
+详细说明如下链接
+
+[代理模式](https://weinh.github.io/design_patterns/docs/proxy_pattern)
