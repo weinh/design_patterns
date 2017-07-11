@@ -79,3 +79,7 @@
 详细说明如下链接
 
 [原型模式](https://weinh.github.io/design_patterns/docs/prototype_pattern)
+## 中介者模式（调停者模式）
+详细说明如下链接
+
+[中介者模式（调停者模式）](https://weinh.github.io/design_patterns/docs/mediator_pattern)

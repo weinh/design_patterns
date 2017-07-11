@@ -17,6 +17,7 @@
         <module>builder_pattern</module>
         <module>proxy_pattern</module>
         <module>prototype_pattern</module>
+        <module>mediator_pattern</module>
     </modules>
 
     <dependencies>
