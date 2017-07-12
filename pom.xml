@@ -18,6 +18,7 @@
         <module>proxy_pattern</module>
         <module>prototype_pattern</module>
         <module>mediator_pattern</module>
+        <module>command_pattern</module>
     </modules>
 
     <dependencies>
