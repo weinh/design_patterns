@@ -87,3 +87,7 @@
 详细说明如下链接
 
 [命令模式](https://weinh.github.io/design_patterns/docs/command_pattern)
+## 责任链模式
+详细说明如下链接
+
+[责任链模式](https://weinh.github.io/design_patterns/docs/chain_responsibility_pattern)

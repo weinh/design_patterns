@@ -19,6 +19,7 @@
         <module>prototype_pattern</module>
         <module>mediator_pattern</module>
         <module>command_pattern</module>
+        <module>chain_responsibility_pattern</module>
     </modules>
 
     <dependencies>
