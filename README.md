@@ -91,3 +91,7 @@
 详细说明如下链接
 
 [责任链模式](https://weinh.github.io/design_patterns/docs/chain_responsibility_pattern)
+## 装饰模式
+详细说明如下链接
+
+[装饰模式](https://weinh.github.io/design_patterns/docs/decorator_pattern)
