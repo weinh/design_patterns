@@ -95,3 +95,7 @@
 详细说明如下链接
 
 [装饰模式](https://weinh.github.io/design_patterns/docs/decorator_pattern)
+## 策略模式（政策模式）
+详细说明如下链接
+
+[策略模式（政策模式）](https://weinh.github.io/design_patterns/docs/strategy_pattern)

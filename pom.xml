@@ -21,6 +21,7 @@
         <module>command_pattern</module>
         <module>chain_responsibility_pattern</module>
         <module>decorator_pattern</module>
+        <module>strategy_pattern</module>
     </modules>
 
     <dependencies>
