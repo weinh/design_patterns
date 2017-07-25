@@ -99,3 +99,7 @@
 详细说明如下链接
 
 [策略模式（政策模式）](https://weinh.github.io/design_patterns/docs/strategy_pattern)
+## 适配器模式（变压器模式，包装模式）
+详细说明如下链接
+
+[策略模式（政策模式）](https://weinh.github.io/design_patterns/docs/adapter_pattern)
