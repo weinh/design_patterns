@@ -102,4 +102,8 @@
 ## 适配器模式（变压器模式，包装模式）
 详细说明如下链接
 
-[策略模式（政策模式）](https://weinh.github.io/design_patterns/docs/adapter_pattern)
+[适配器模式（变压器模式，包装模式）](https://weinh.github.io/design_patterns/docs/adapter_pattern)
+## 迭代器模式
+详细说明如下链接
+
+[迭代器模式](https://weinh.github.io/design_patterns/docs/iterator_pattern)

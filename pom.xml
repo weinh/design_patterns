@@ -23,6 +23,7 @@
         <module>decorator_pattern</module>
         <module>strategy_pattern</module>
         <module>adapter_pattern</module>
+        <module>iterator_pattern</module>
     </modules>
 
     <dependencies>
