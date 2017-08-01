@@ -1,0 +1,19 @@
+package com.learnning.design_patterns.composite_pattern;
+
+/**
+ * 类 名 称：Component.java
+ * 功能说明：
+ * 开发人员：weinh
+ * 开发时间：2017年08月01日
+ */
+public abstract class Component {
+    private String name;
+
+    public Component(String name) {
+        this.name = name;
+    }
+
+    public void show() {
+        System.out.println("我是" + name);
+    }
+}

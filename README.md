@@ -107,3 +107,7 @@
 详细说明如下链接
 
 [迭代器模式](https://weinh.github.io/design_patterns/docs/iterator_pattern)
+## 组合模式（合成模式，部分-整体模式）
+详细说明如下链接
+
+[组合模式（合成模式，部分-整体模式）](https://weinh.github.io/design_patterns/docs/composite_pattern)
