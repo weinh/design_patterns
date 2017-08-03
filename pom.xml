@@ -25,6 +25,7 @@
         <module>adapter_pattern</module>
         <module>iterator_pattern</module>
         <module>composite_pattern</module>
+        <module>observer_pattern</module>
     </modules>
 
     <dependencies>

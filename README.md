@@ -111,3 +111,7 @@
 详细说明如下链接
 
 [组合模式（合成模式，部分-整体模式）](https://weinh.github.io/design_patterns/docs/composite_pattern)
+## 观察者模式（发布订阅模式）
+详细说明如下链接
+
+[观察者模式（发布订阅模式）](https://weinh.github.io/design_patterns/docs/observer_pattern)
