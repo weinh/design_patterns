@@ -115,3 +115,7 @@
 详细说明如下链接
 
 [观察者模式（发布订阅模式）](https://weinh.github.io/design_patterns/docs/observer_pattern)
+## 门面模式
+详细说明如下链接
+
+[门面模式](https://weinh.github.io/design_patterns/docs/facade_pattern)
