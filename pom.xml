@@ -27,6 +27,7 @@
         <module>composite_pattern</module>
         <module>observer_pattern</module>
         <module>facade_pattern</module>
+        <module>memento_pattern</module>
     </modules>
 
     <dependencies>

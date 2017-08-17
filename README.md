@@ -119,3 +119,7 @@
 详细说明如下链接
 
 [门面模式](https://weinh.github.io/design_patterns/docs/facade_pattern)
+## 备忘录模式
+详细说明如下链接
+
+[备忘录模式](https://weinh.github.io/design_patterns/docs/memento_pattern)
