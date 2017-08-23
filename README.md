@@ -123,3 +123,7 @@
 详细说明如下链接
 
 [备忘录模式](https://weinh.github.io/design_patterns/docs/memento_pattern)
+## 访问者模式
+详细说明如下链接
+
+[访问者模式](https://weinh.github.io/design_patterns/docs/visitor_pattern)
