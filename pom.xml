@@ -29,6 +29,7 @@
         <module>facade_pattern</module>
         <module>memento_pattern</module>
         <module>visitor_pattern</module>
+        <module>status_pattern</module>
     </modules>
 
     <dependencies>

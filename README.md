@@ -70,3 +70,4 @@
 17. [门面模式](https://weinh.github.io/design_patterns/docs/facade_pattern)
 18. [备忘录模式](https://weinh.github.io/design_patterns/docs/memento_pattern)
 19. [访问者模式](https://weinh.github.io/design_patterns/docs/visitor_pattern)
+20. [状态模式](https://weinh.github.io/design_patterns/docs/status_pattern)
