@@ -71,4 +71,5 @@
 18. [备忘录模式](https://weinh.github.io/design_patterns/docs/memento_pattern)
 19. [访问者模式](https://weinh.github.io/design_patterns/docs/visitor_pattern)
 20. [状态模式](https://weinh.github.io/design_patterns/docs/status_pattern)
-20. [解释器模式](https://weinh.github.io/design_patterns/docs/interpreter_pattern)
+21. [解释器模式](https://weinh.github.io/design_patterns/docs/interpreter_pattern)
+22. [享元模式](https://weinh.github.io/design_patterns/docs/flyweight_pattern)

@@ -31,6 +31,7 @@
         <module>visitor_pattern</module>
         <module>status_pattern</module>
         <module>interpreter_pattern</module>
+        <module>flyweight_pattern</module>
     </modules>
 
     <dependencies>
